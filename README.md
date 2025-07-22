@@ -19,7 +19,7 @@ The **AI-Powered Resume Customization System** is an intelligent web application
 
 ## 🚀 Live Demo
 
-Try the application: [Launch Demo](your-streamlit-app-url)
+Try the application: [Launch Demo](https://ai-powered-resume-customization-system-ih9qddaawsxlauaaadzqby.streamlit.app/)
 
 ## 📋 Table of Contents
 
